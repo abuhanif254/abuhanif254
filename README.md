@@ -80,7 +80,7 @@ Ticket Management System : https://dynamic-semifreddo-3074f8.netlify.app/
 ## 🤝 Connect With Me  
 
 - 💼 **GitHub:** https://github.com/abuhanif254 
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/md-abu-hanif-mia-5092b5189/  
+- 🔗 **LinkedIn:** www.linkedin.com/in/md-abu-hanif-mia
 - 📧 **Email:** mohammadbitullah@gmail.com 
 
 ---
