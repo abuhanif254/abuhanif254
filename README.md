@@ -70,9 +70,9 @@ best practices, and continuously learning new technologies.
 
 ## 🤝 Connect With Me  
 
-- 💼 **GitHub:** https://github.com/YOUR_USERNAME  
-- 🔗 **LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN_USERNAME  
-- 📧 **Email:** YOUR_EMAIL@gmail.com  
+- 💼 **GitHub:** https://github.com/abuhanif254 
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/md-abu-hanif-mia-5092b5189/  
+- 📧 **Email:** mohammadbitullah@gmail.com 
 
 ---
 
