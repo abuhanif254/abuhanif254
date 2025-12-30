@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/banner.png" alt="GitHub Banner" />
+  <img src="https://ibb.co.com/SgkWWqJ" alt="GitHub Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm MD Abu Hanif Mia</h1>
