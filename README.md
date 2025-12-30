@@ -1,7 +1,8 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://ibb.co.com/SgkWWqJ" alt="GitHub Banner" />
+  <img src="https://raw.githubusercontent.com/abuhanif254/abuhanif254/main/banner.png" alt="MD Abu Hanif Mia Banner" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm MD Abu Hanif Mia</h1>
 <h3 align="center">Web Developer | Frontend Focused | MERN & Next.js Enthusiast</h3>
