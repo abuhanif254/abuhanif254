@@ -55,6 +55,9 @@ best practices, and continuously learning new technologies.
 
 ---
 
+### Languages Skills: 
+{Bangla ,   English (reading, writing, speaking(normal), Hindi(speaking),  arabic(normal speaking)}
+
 ## 📊 GitHub Analytics  
 
 <p align="center">
