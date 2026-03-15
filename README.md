@@ -61,12 +61,12 @@ best practices, and continuously learning new technologies.
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abuhanif254&show_icons=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abuhanif254" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhanif254&layout=compact" />
 </p>
 
 ---
