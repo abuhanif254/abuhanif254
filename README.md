@@ -71,14 +71,18 @@ best practices, and continuously learning new technologies.
 
 ---
 
+## 📂 Projects
 
-My Project : 
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| 🩸 **Blood Donation Management** | A platform to connect blood donors and recipients efficiently, with user authentication and responsive UI. | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | [Live Demo](https://elaborate-toffee-f152b0.netlify.app) |
+| 🎬 **Movie Management System** | Manage movies with CRUD operations, search functionality, and Firebase authentication. | ![MERN](https://img.shields.io/badge/MERN-Stack-green?style=flat) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | [Live Demo](https://mellifluous-lebkuchen-ba8a35.netlify.app) |
+| 📊 **Appa Management System** | A management system for handling organizational data with a clean dashboard interface. | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) | [Live Demo](https://legendary-rugelach-977c3b.netlify.app) |
+| 🛒 **E-Commerce Web App** | A modern e-commerce platform with product listings, cart management, and responsive design. | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | [Live Demo](https://dreamy-frangollo-d1252d.netlify.app) |
+| 🎟 **Ticket Management System** | A ticket booking and management system with user-friendly interface and real-time updates. | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) | [Live Demo](https://dynamic-semifreddo-3074f8.netlify.app) |
 
-Blood Donation Management: https://elaborate-toffee-f152b0.netlify.app
-Movie Management System: https://mellifluous-lebkuchen-ba8a35.netlify.app
-Appa Management System/Appa System: https://legendary-rugelach-977c3b.netlify.app
-E-Commerce Web App : https://dreamy-frangollo-d1252d.netlify.app
-Ticket Management System : https://dynamic-semifreddo-3074f8.netlify.app
+
+
 
 ## 🤝 Connect With Me  
 
