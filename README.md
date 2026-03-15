@@ -8,10 +8,10 @@
 <h3 align="center">Web Developer | Frontend Focused | MERN & Next.js Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/md-abu-hanif-mia" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:mohammadbitullah@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
   </a>
   <img src="https://img.shields.io/badge/Location-Bangladesh-success?style=flat" />
@@ -74,11 +74,11 @@ best practices, and continuously learning new technologies.
 
 My Project : 
 
-Blood Donation Management: https://elaborate-toffee-f152b0.netlify.app/
-Movie Management System: https://mellifluous-lebkuchen-ba8a35.netlify.app/
-Appa Management System/Appa System: https://legendary-rugelach-977c3b.netlify.app/
-E-Commerce Web App : https://dreamy-frangollo-d1252d.netlify.app/
-Ticket Management System : https://dynamic-semifreddo-3074f8.netlify.app/
+Blood Donation Management: https://elaborate-toffee-f152b0.netlify.app
+Movie Management System: https://mellifluous-lebkuchen-ba8a35.netlify.app
+Appa Management System/Appa System: https://legendary-rugelach-977c3b.netlify.app
+E-Commerce Web App : https://dreamy-frangollo-d1252d.netlify.app
+Ticket Management System : https://dynamic-semifreddo-3074f8.netlify.app
 
 ## 🤝 Connect With Me  
 
