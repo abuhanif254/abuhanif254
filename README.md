@@ -66,7 +66,7 @@ best practices, and continuously learning new technologies.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhanif254&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuhanif254&layout=compact&langs_count=10" />
 </p>
 
 ---
