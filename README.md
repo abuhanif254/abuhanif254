@@ -28,6 +28,12 @@ best practices, and continuously learning new technologies.
 
 ---
 
+## 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&color=00FFAA&center=true&vCenter=true&width=720&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+its+bad.;Debugging+is+like+being+the+detective+in+a+crime+movie+where+you+are+also+the+murderer.;The+best+way+to+predict+the+future+is+to+create+it.;Talk+is+cheap.+Show+me+the+code." alt="Typing Quote" />
+</p>
+
 ## 🔭 Currently Working On  
 
 - Exploring **Next.js** and SEO-optimized web applications  
@@ -80,6 +86,72 @@ best practices, and continuously learning new technologies.
 | 📊 **Appa Management System** | A management system for handling organizational data with a clean dashboard interface. | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) | [Live Demo](https://legendary-rugelach-977c3b.netlify.app) |
 | 🛒 **E-Commerce Web App** | A modern e-commerce platform with product listings, cart management, and responsive design. | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | [Live Demo](https://dreamy-frangollo-d1252d.netlify.app) |
 | 🎟 **Ticket Management System** | A ticket booking and management system with user-friendly interface and real-time updates. | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) | [Live Demo](https://dynamic-semifreddo-3074f8.netlify.app) |
+
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🛒 E-Commerce Web App</h3>
+        <p>A modern e-commerce platform with product listings, cart management, and responsive design.</p>
+        <br>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+        <br><br>
+        🔗 <a href="https://github.com/abuhanif254">Repo</a> • 🌐 Live Demo (লিংক দাও)
+      </td>
+      <td width="50%" align="center">
+        <h3>🎟️ Ticket Management System</h3>
+        <p>A ticket booking and management system with user-friendly interface and real-time updates.</p>
+        <br>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <br><br>
+        🔗 <a href="https://github.com/abuhanif254">Repo</a> • 🌐 Live Demo (লিংক দাও)
+      </td>
+    </tr>
+  </table>
+</p>
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abuhanif254&theme=radical&no-bg=true&margin-w=15&row=1&column=6" alt="Trophies" />
+</p>
+
+
+## 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/abuhanif254/abuhanif254/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Contribution Snake" />
+</p>
+
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/abuhanif254/count.svg" alt="Visitor Count" />
+</p>
+
+
+## 🌱 Currently Learning & Future Goals
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced_React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+</p>
+
+- Mastering Next.js 15 + Server Actions  
+- AI Integration & Full-Stack Apps  
+- Contributing to Open Source in 2026  
+- Goal: 100+ GitHub Stars এবং একটা প্রোডাক্ট লঞ্চ করা
 
 
 
