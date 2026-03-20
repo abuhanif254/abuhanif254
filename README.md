@@ -85,96 +85,25 @@ best practices, and continuously learning new technologies.
 
 ## 🤝 Connect With Me
 
-<style>
-  .connect-container {
-    position: relative;
-    padding: 30px 20px;
-    border-radius: 20px;
-    background: linear-gradient(145deg, #0f0f0f, #1a1a2e);
-    box-shadow: 0 0 40px rgba(255, 255, 255, 0.1);
-    overflow: hidden;
-  }
-  .connect-container::before {
-    content: '';
-    position: absolute;
-    top: -50%;
-    left: -50%;
-    width: 200%;
-    height: 200%;
-    background: radial-gradient(circle, rgba(255,255,255,0.08) 0%, transparent 70%);
-    animation: particleGlow 15s linear infinite;
-    pointer-events: none;
-  }
-
-  .connect-btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 12px;
-    padding: 16px 36px;
-    margin: 12px;
-    border-radius: 50px;
-    font-weight: 800;
-    font-size: 1.15em;
-    color: white;
-    text-decoration: none;
-    position: relative;
-    overflow: hidden;
-    transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-    box-shadow: 0 10px 30px rgba(0,0,0,0.4);
-    transform: perspective(1000px) rotateX(10deg);
-  }
-  .connect-btn:hover {
-    transform: perspective(1000px) rotateX(0deg) scale(1.25) translateY(-8px);
-    box-shadow: 0 20px 50px rgba(255,255,255,0.4);
-  }
-  .connect-btn::before {
-    content: '';
-    position: absolute;
-    top: -50%;
-    left: -100%;
-    width: 50%;
-    height: 200%;
-    background: linear-gradient(120deg, transparent, rgba(255,255,255,0.6), transparent);
-    transition: 0.7s;
-  }
-  .connect-btn:hover::before {
-    left: 200%;
-  }
-
-  .github-btn   { background: linear-gradient(135deg, #181717, #2ecc71); }
-  .linkedin-btn { background: linear-gradient(135deg, #0077B5, #00d4ff); }
-  .email-btn    { background: linear-gradient(135deg, #D14836, #ff4757); }
-
-  @keyframes particleGlow {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
-  }
-
-  .quote {
-    font-size: 1.4em;
-    font-weight: 900;
-    background: linear-gradient(90deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #ff6b6b);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-size: 300%;
-    animation: rainbow 6s linear infinite;
-    text-shadow: 0 0 30px rgba(255,255,255,0.5);
-  }
-
-  @keyframes rainbow {
-    0% { background-position: 0% 50%; }
-    100% { background-position: 300% 50%; }
-  }
-</style>
-
-<div class="connect-container" align="center">
-  <a href="https://github.com/abuhanif254" target="_blank" class="connect-btn github-btn">💼 GitHub</a>
-  <a href="https://www.linkedin.com/in/md-abu-hanif-mia" target="_blank" class="connect-btn linkedin-btn">🔗 LinkedIn</a>
-  <a href="mailto:mohammadbitullah@gmail.com" target="_blank" class="connect-btn email-btn">📧 Email Me</a>
-</div>
+<p align="center">
+  <a href="https://github.com/abuhanif254" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="48">
+  </a>
+  <a href="https://www.linkedin.com/in/md-abu-hanif-mia" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="48">
+  </a>
+  <a href="mailto:mohammadbitullah@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="48">
+  </a>
+</p>
 
 <p align="center">
-  <span class="quote">
+  <span style="font-size: 1.45em; font-weight: 900; 
+               background: linear-gradient(90deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #ff6b6b); 
+               -webkit-background-clip: text; 
+               -webkit-text-fill-color: transparent; 
+               background-size: 300%; 
+               animation: rainbow 8s linear infinite;">
     ⭐ Always learning • Always building • Always improving ⭐
   </span>
 </p>
