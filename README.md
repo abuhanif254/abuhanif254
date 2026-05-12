@@ -94,14 +94,14 @@ best practices, and continuously learning new technologies.
   <table>
     <tr>
       <td width="50%" align="center">
-        <h3>🛒 E-Commerce Web App</h3>
-        <p>A modern e-commerce platform with product listings, cart management, and responsive design.</p>
+        <h3>Nexus Calculator</h3>
+        <p>The ultimate ecosystem for professionals. Access hundreds of precise calculators and powerful developer utilities instantly in your browser.</p>
         <br>
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
         <br><br>
-        🔗 <a href="https://github.com/abuhanif254">Repo</a> • 🌐 Live Demo (লিংক দাও)
+        🔗 <a href="https://www.nexuscalculator.net">Repo</a> • https://www.nexuscalculator.net
       </td>
       <td width="50%" align="center">
         <h3>🎟️ Ticket Management System</h3>
@@ -111,7 +111,7 @@ best practices, and continuously learning new technologies.
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
         <br><br>
-        🔗 <a href="https://github.com/abuhanif254">Repo</a> • 🌐 Live Demo (লিংক দাও)
+        🔗 <a href="https://github.com/abuhanif254">Repo</a> • 
       </td>
     </tr>
   </table>
